@@ -6,7 +6,7 @@ Seasoned Java Backend Engineer with 3.2+ years of experience designing, developi
 
 ---
 
- - ** Senior Java Developer ** @ VZURE SOFTWARE NETWORK SOLUTIONS  (2022–present) -Led migration of a monolithic application to microservices resulting in ~40% performance improvement
+ - **Senior Java Developer** @ VZURE SOFTWARE NETWORK SOLUTIONS  (2022–present) -Led migration of a monolithic application to microservices resulting in ~40% performance improvement
   
               ○ Built high-throughput REST APIs handling 10K+ RPM
   
