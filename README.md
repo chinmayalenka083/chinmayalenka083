@@ -105,7 +105,7 @@ Integrated MySQL database with Hibernate/JPA for user credential management and 
 Applied clean architecture, validation, and unit testing using JUnit and Mockito to ensure scalability, security, and reliability.
 
 ---
-## <h2 style="color:#2196F3;">🚀 Real-time Analytics Engine</h2>
+<h2 style="color:#0969DA;">🚀 Real-time Analytics Engine</h2>
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
