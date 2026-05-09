@@ -94,9 +94,10 @@ Secure authentication and authorization system using Spring Security and JWT.
 
 ## 📫 Let's Connect
 
-- LinkedIn
-- GitHub
-- Email
+- [LinkedIn](www.linkedin.com/in/
+chinmaya-lenka083)
+- [GitHub](https://github.com/chinmayalenka083)
+- Email:chinmayalenka87@gmail.com
 
 ---
 
