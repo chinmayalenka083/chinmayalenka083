@@ -88,14 +88,6 @@ Secure authentication and authorization system using Spring Security and JWT.
 
 ---
 
-## 🏆 Certifications
-
-- CCNA
-- Java Backend Development
-- Spring Boot Microservices
-
----
-
 ## 📫 Let's Connect
 
 - LinkedIn
