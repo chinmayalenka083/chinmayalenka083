@@ -6,11 +6,10 @@ Seasoned Java Backend Engineer with 3.2+ years of experience designing, developi
 
 ---
 
-## 🏢 Experience Highlights
-- Senior Java Developer @ VZURE SOFTWARE NETWORK SOLUTIONS (2022–present) -Led migration of a monolithic application to microservices resulting in ~40% performance improvement
-      -  Built high-throughput REST APIs handling 10K+ RPM.  
-      -  Designed and applied caching strategies that reduced DB load by ~60%.  
-      -  Mentored 3+ junior developers in Spring Boot best practices, testing, and code quality.
+- Senior Java Developer @ TapQwik (2022–present) -Led migration of a monolithic application to microservices resulting in ~40% performance improvement
+Built high-throughput REST APIs handling 10K+ RPM
+Designed and applied caching strategies that reduced DB load by ~60%
+Mentored 3+ junior developers in Spring Boot best practices, testing, and code quality
    
 ## 🛠️ Technical Stack
 Languages & Core: Java 11, Java 17 Frameworks: Spring, Spring Boot, Spring MVC, Hibernate / JPA Security: Spring Security, JWT (basic) Databases & Cache: MySQL, Redis Messaging & Streaming: Apache Kafka Microservices: REST APIs, API Gateway concepts, Idempotency, Fault Tolerance Cloud & Containers: AWS (EC2, S3, RDS, Lambda), Docker CI/CD & Version Control: Jenkins, Git, GitHub Build & Testing: Maven, JUnit, Mockito Observability (Basic): Micrometer, Logs, Metrics
