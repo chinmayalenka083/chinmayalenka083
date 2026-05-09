@@ -1,20 +1,20 @@
 # Java Backend Engineer | Developer
 
 ## 💼 Professional Summary
-Seasoned Java Backend Engineer with 3.2+ years of experience designing, developing, and deploying scalable backend applications using Spring Boot and Microservices architecture.
 
-Passionate about building high-performance REST APIs, distributed systems, and scalable cloud-native applications.
+Seasoned Java Backend Engineer with 3.2+ years of experience designing, developing, and deploying scalable backend systems using Spring Boot and Microservices architecture.
 
 ---
 
 ## 🏢 Experience Highlights
 
 ### Java Backend Developer
-- Developed scalable microservices using Spring Boot
-- Built REST APIs for enterprise applications
-- Implemented Kafka-based event-driven architecture
-- Optimized MySQL queries and Redis caching
-- Worked with Docker and AWS deployments
+
+- Built scalable REST APIs using Spring Boot
+- Developed microservices architecture applications
+- Integrated Apache Kafka for event-driven systems
+- Implemented Redis caching for performance optimization
+- Worked with Docker and AWS cloud deployments
 - Collaborated with frontend and DevOps teams
 
 ---
@@ -62,22 +62,24 @@ Passionate about building high-performance REST APIs, distributed systems, and s
 - Microservices Architecture
 - REST APIs
 - Event-Driven Systems
-- Scalable Backend Systems
+- Distributed Systems
 - Database Optimization
 - CI/CD Pipelines
-- Distributed Systems
 
 ---
 
 ## 🔬 Featured Projects
 
 ### E-Commerce Sales Forecasting
-AI/ML-based sales forecasting project using Python, SQL, Machine Learning, and Tableau.
+
+AI/ML-based sales prediction system using Python, SQL, Machine Learning, and Tableau.
 
 ### Spring Boot Microservices
-Built distributed backend services using Spring Boot, Kafka, Redis, and Docker.
+
+Distributed backend services using Spring Boot, Kafka, Redis, and Docker.
 
 ### JWT Authentication System
+
 Secure authentication and authorization system using Spring Security and JWT.
 
 ---
@@ -85,6 +87,16 @@ Secure authentication and authorization system using Spring Security and JWT.
 ## 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmayalenka-083&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayalenka-083&layout=compact)
+
+---
+
+## 🏆 Certifications
+
+- CCNA
+- Java Backend Development
+- Spring Boot Microservices
 
 ---
 
@@ -100,5 +112,5 @@ Secure authentication and authorization system using Spring Security and JWT.
 
 - Advanced Microservices
 - System Design
-- Generative AI Integration
 - Kubernetes
+- Generative AI Integration
