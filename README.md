@@ -7,19 +7,18 @@ Seasoned Java Backend Engineer with 3.2+ years of experience designing, developi
 ---
 
 ## 🏢 Experience Highlights
-
-### Java Backend Developer
-
-- Built scalable REST APIs using Spring Boot
-- Developed microservices architecture applications
-- Integrated Apache Kafka for event-driven systems
-- Implemented Redis caching for performance optimization
-- Worked with Docker and AWS cloud deployments
-- Collaborated with frontend and DevOps teams
-
----
-
+• Senior Java Developer @ VZURE SOFTWARE NETWORK SOLUTIONS (2022–present) -Led migration of a monolithic application to microservices resulting in ~40% performance improvement
+   ○ Built high-throughput REST APIs handling 10K+ RPM.
+   ○ Designed and applied caching strategies that reduced DB load by ~60%.
+   ○ Mentored 3+ junior developers in Spring Boot best practices, testing, and code quality.
+   
 ## 🛠️ Technical Stack
+Languages & Core: Java 11, Java 17 Frameworks: Spring, Spring Boot, Spring MVC, Hibernate / JPA Security: Spring Security, JWT (basic) Databases & Cache: MySQL, Redis Messaging & Streaming: Apache Kafka Microservices: REST APIs, API Gateway concepts, Idempotency, Fault Tolerance Cloud & Containers: AWS (EC2, S3, RDS, Lambda), Docker CI/CD & Version Control: Jenkins, Git, GitHub Build & Testing: Maven, JUnit, Mockito Observability (Basic): Micrometer, Logs, Metrics
+
+## 📊 Key Metrics & Impact
+• Reduced API response time from ~2s to ~200ms via code and query optimizations
+• Achieved 99.9% uptime for critical payment services
+• Led a team that delivered 3 major microservices ahead of schedule
 
 ### Languages & Core
 - Java
@@ -70,19 +69,47 @@ Seasoned Java Backend Engineer with 3.2+ years of experience designing, developi
 
 ## 🔬 Featured Projects
 
-### E-Commerce Sales Forecasting
+### VConnect Telecom Platform
+Designed and developed scalable microservices applications using Java, Spring Boot, Hibernate (JPA), and layered architecture principles.
 
-AI/ML-based sales prediction system using Python, SQL, Machine Learning, and Tableau.
+Built high-performance RESTful APIs to support secure and efficient backend communication between services.
 
-### Spring Boot Microservices
+Implemented Apache Kafka for asynchronous event-driven communication and real-time data processing.
 
-Distributed backend services using Spring Boot, Kafka, Redis, and Docker.
+Enhanced application performance by optimizing MySQL queries, applying indexing techniques, and integrating Redis caching.
+
+Deployed and maintained applications on AWS EC2, while utilizing Amazon S3 for secure cloud storage services.
+
+Automated build, deployment, and delivery processes using Jenkins CI/CD pipelines and Docker containerization.
+
+Developed unit and integration test cases using JUnit and Mockito to improve software reliability and reduce production issues.
+
+Applied SOLID principles, design patterns, and clean coding standards to build maintainable and scalable backend systems.
+
+Collaborated within Agile Scrum teams with frontend developers, QA engineers, and product managers to deliver high-quality business solutions efficiently.
 
 ### JWT Authentication System
 
-Secure authentication and authorization system using Spring Security and JWT.
+Developed a secure JWT-based authentication and authorization system using Java, Spring Boot, and Spring Security.
+
+Implemented user registration, login, token generation, and token validation with role-based access control (RBAC)
+
+Secured RESTful APIs using JWT access tokens and integrated password encryption using BCrypt hashing.
+
+Configured authentication filters, exception handling, and session management for stateless security architecture.
+
+Integrated MySQL database with Hibernate/JPA for user credential management and authentication data storage.
+
+Applied clean architecture, validation, and unit testing using JUnit and Mockito to ensure scalability, security, and reliability.
 
 ---
+## <h2 style="color:#2196F3;">🚀 Real-time Analytics Engine</h2>
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+Real-time event processing pipeline that ingests, aggregates, and exposes analytics dashboards for high-throughput event streams.
 
 ## 📈 GitHub Stats
 
@@ -104,7 +131,11 @@ Secure authentication and authorization system using Spring Security and JWT.
 
 ## 🚀 Currently Learning
 
-- Advanced Microservices
-- System Design
-- Kubernetes
-- Generative AI Integration
+- Generative AI (Gen AI) Applications & AI-Powered Systems  
+- Large Language Models (LLMs) & Prompt Engineering  
+- Retrieval-Augmented Generation (RAG) Architecture  
+- AI/ML Model Development using TensorFlow & Scikit-learn  
+- OpenAI API & LLM Integration in Java Applications  
+- Vector Databases & Semantic Search Techniques  
+- AI Chatbot Development and Intelligent Automation  
+- Scalable Backend Systems for AI-driven Applications  
