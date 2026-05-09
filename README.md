@@ -86,17 +86,9 @@ Secure authentication and authorization system using Spring Security and JWT.
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmayalenka-083&show_icons=true)
+![Chinmaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmayalenka083&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayalenka-083&layout=compact)
-
----
-
-## 🏆 Certifications
-
-- CCNA
-- Java Backend Development
-- Spring Boot Microservices
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayalenka083&layout=compact&theme=tokyonight)
 
 ---
 
