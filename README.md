@@ -90,7 +90,7 @@ Applied SOLID principles, design patterns, and clean coding standards to build m
 
 Collaborated within Agile Scrum teams with frontend developers, QA engineers, and product managers to deliver high-quality business solutions efficiently.
 
-### JWT Authentication System
+#### JWT Authentication System
 
 Developed a secure JWT-based authentication and authorization system using Java, Spring Boot, and Spring Security.
 
